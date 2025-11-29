@@ -285,12 +285,21 @@ pytest tests/
 ## 🙏 致谢
 
 - [AgentScope](https://github.com/modelscope/agentscope) - 强大的多智能体框架
-- [Gradio](https://gradio.app/) - 简单易用的Web界面框架
+- [Mem0](https://github.com/mem0ai/mem0) - 长期记忆系统
+- [Gradio](https://gradio.app/) - 简单易用的 Web 界面框架
+- [Jinja2](https://jinja.palletsprojects.com/) - 强大的模板引擎
+- [Pydantic](https://docs.pydantic.dev/) - 数据验证库
 
 ## 📮 联系方式
 
-如有问题或建议，欢迎通过Issue联系我们。
+如有问题或建议，欢迎通过 [GitHub Issues](https://github.com/acgurl/mori/issues) 联系我们。
+
+## ⭐ Star History
+
+如果这个项目对你有帮助，请给我们一个 Star ⭐
 
 ---
 
-用心陪伴，温暖相随 💕
+**用心陪伴，温暖相随 💕**
+
+*Built with ❤️ using AgentScope*
