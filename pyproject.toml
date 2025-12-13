@@ -17,9 +17,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/moria"
-Documentation = "https://github.com/yourusername/moria/blob/main/README.md"
-Repository = "https://github.com/yourusername/moria"
+Homepage = "https://github.com/acgurl/mori"
+Documentation = "https://github.com/acgurl/mori/blob/main/README.md"
+Repository = "https://github.com/acgurl/mori"
 
 [project.optional-dependencies]
 dev = [
